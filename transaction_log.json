@@ -1,0 +1,902 @@
+[
+    {
+        "transaction_id": "TRX-202310-9001",
+        "timestamp": "2023-10-27T08:05:00Z",
+        "customer_id": "CUST-1016",
+        "product_category": "  elektronik  ",
+        "item_name": "Smartphone X-Pro 128GB",
+        "price": 250000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9002",
+        "timestamp": "2023-10-27T08:10:00Z",
+        "customer_id": "CUST-1042",
+        "product_category": "MAKANAN",
+        "item_name": "Mie Instan Kuah 5pcs",
+        "price": -50000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9003",
+        "timestamp": "2023-10-27T08:15:00Z",
+        "customer_id": "CUST-1027",
+        "product_category": "Makanan",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 450000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9004",
+        "timestamp": "2023-10-27T08:20:00Z",
+        "customer_id": "CUST-1031",
+        "product_category": "FASHION",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 300000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9005",
+        "timestamp": "2023-10-27T08:25:00Z",
+        "customer_id": "CUST-1026",
+        "product_category": "Elektronik",
+        "item_name": "Smartwatch Series 5",
+        "price": 100000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9006",
+        "timestamp": "2023-10-27T08:30:00Z",
+        "customer_id": "CUST-1045",
+        "product_category": "Home Appliances",
+        "item_name": "Vacuum Cleaner Cordless",
+        "price": 100000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9007",
+        "timestamp": "2023-10-27T08:35:00Z",
+        "customer_id": "CUST-1024",
+        "product_category": "  makanan  ",
+        "item_name": "Kopi Bubuk Arabica 250g",
+        "price": 500000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9008",
+        "timestamp": "2023-10-27T08:40:00Z",
+        "customer_id": "CUST-1033",
+        "product_category": "Elektronik",
+        "item_name": "Laptop Pro 15-inch",
+        "price": 100000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9009",
+        "timestamp": "2023-10-27T08:45:00Z",
+        "customer_id": "CUST-1014",
+        "product_category": "Alat Tulis",
+        "item_name": "Spidol Warna 12pcs",
+        "price": 200000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9010",
+        "timestamp": "2023-10-27T08:50:00Z",
+        "customer_id": "CUST-1050",
+        "product_category": "Makanan",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 150000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9011",
+        "timestamp": "2023-10-27T08:55:00Z",
+        "customer_id": "CUST-1035",
+        "product_category": "Alat Tulis",
+        "item_name": "Buku Catatan Premium",
+        "price": 200000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9012",
+        "timestamp": "2023-10-27T09:00:00Z",
+        "customer_id": "CUST-1041",
+        "product_category": "Elektronik",
+        "item_name": "Laptop Pro 15-inch",
+        "price": 500000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9013",
+        "timestamp": "2023-10-27T09:05:00Z",
+        "customer_id": "CUST-1044",
+        "product_category": "Home Appliances",
+        "item_name": "Rice Cooker Digital 1.8L",
+        "price": 250000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9014",
+        "timestamp": "2023-10-27T09:10:00Z",
+        "customer_id": "CUST-1018",
+        "product_category": "MAKANAN",
+        "item_name": "Mie Instan Kuah 5pcs",
+        "price": 500000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9015",
+        "timestamp": "2023-10-27T09:15:00Z",
+        "customer_id": "CUST-1037",
+        "product_category": "ELEKTRONIK",
+        "item_name": "Smartphone X-Pro 128GB",
+        "price": 100000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9016",
+        "timestamp": "2023-10-27T09:20:00Z",
+        "customer_id": "CUST-1045",
+        "product_category": "Home Appliances",
+        "item_name": "Setrika Uap Anti Lengket",
+        "price": 500000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9017",
+        "timestamp": "2023-10-27T09:25:00Z",
+        "customer_id": "CUST-1028",
+        "product_category": "Elektronik",
+        "item_name": "Powerbank 20000mAh",
+        "price": 250000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9018",
+        "timestamp": "2023-10-27T09:30:00Z",
+        "customer_id": "CUST-1026",
+        "product_category": "Fashion",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 50000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9019",
+        "timestamp": "2023-10-27T09:35:00Z",
+        "customer_id": "CUST-1022",
+        "product_category": "Makanan",
+        "item_name": "Snack Kentang Sapi Panggang",
+        "price": 250000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9020",
+        "timestamp": "2023-10-27T09:40:00Z",
+        "customer_id": "CUST-1010",
+        "product_category": "Alat Tulis",
+        "item_name": "Pulpen Gel Set of 5",
+        "price": 450000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9021",
+        "timestamp": "2023-10-27T09:45:00Z",
+        "customer_id": "CUST-1029",
+        "product_category": "Home Appliances",
+        "item_name": "Blender Portable Mini",
+        "price": 100000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9022",
+        "timestamp": "2023-10-27T09:50:00Z",
+        "customer_id": "CUST-1041",
+        "product_category": "  elektronik  ",
+        "item_name": "Laptop Pro 15-inch",
+        "price": 500000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9023",
+        "timestamp": "2023-10-27T09:55:00Z",
+        "customer_id": "CUST-1020",
+        "product_category": "Makanan",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 150000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9024",
+        "timestamp": "2023-10-27T10:00:00Z",
+        "customer_id": "CUST-1022",
+        "product_category": "Makanan",
+        "item_name": "Susu UHT Full Cream 1L",
+        "price": 350000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9025",
+        "timestamp": "2023-10-27T10:05:00Z",
+        "customer_id": "CUST-1025",
+        "product_category": "Home Appliances",
+        "item_name": "Kipas Angin Berdiri 16-inch",
+        "price": 400000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9026",
+        "timestamp": "2023-10-27T10:10:00Z",
+        "customer_id": "CUST-1024",
+        "product_category": "ELEKTRONIK",
+        "item_name": "Wireless Earbuds Gen 2",
+        "price": 50000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9027",
+        "timestamp": "2023-10-27T10:15:00Z",
+        "customer_id": "CUST-1031",
+        "product_category": "",
+        "item_name": "Smartphone X-Pro 128GB",
+        "price": null,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9028",
+        "timestamp": "2023-10-27T10:20:00Z",
+        "customer_id": "CUST-1018",
+        "product_category": "MAKANAN",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 250000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9029",
+        "timestamp": "2023-10-27T10:25:00Z",
+        "customer_id": "CUST-1037",
+        "product_category": "  fashion  ",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 350000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9030",
+        "timestamp": "2023-10-27T10:30:00Z",
+        "customer_id": "CUST-1016",
+        "product_category": "  home appliances  ",
+        "item_name": "Setrika Uap Anti Lengket",
+        "price": 400000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9031",
+        "timestamp": "2023-10-27T10:35:00Z",
+        "customer_id": "CUST-1038",
+        "product_category": "HOME APPLIANCES",
+        "item_name": "Kipas Angin Berdiri 16-inch",
+        "price": 100000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9032",
+        "timestamp": "2023-10-27T10:40:00Z",
+        "customer_id": "CUST-1014",
+        "product_category": "Home Appliances",
+        "item_name": "Rice Cooker Digital 1.8L",
+        "price": 250000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9033",
+        "timestamp": "2023-10-27T10:45:00Z",
+        "customer_id": "CUST-1010",
+        "product_category": "Makanan",
+        "item_name": "Snack Kentang Sapi Panggang",
+        "price": 50000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9034",
+        "timestamp": "2023-10-27T10:50:00Z",
+        "customer_id": "CUST-1035",
+        "product_category": "FASHION",
+        "item_name": "Sepatu Sneakers Putih 42",
+        "price": 350000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9035",
+        "timestamp": "2023-10-27T10:55:00Z",
+        "customer_id": "CUST-1039",
+        "product_category": "Fashion",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 50000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9036",
+        "timestamp": "2023-10-27T11:00:00Z",
+        "customer_id": "CUST-1013",
+        "product_category": "Home Appliances",
+        "item_name": "Vacuum Cleaner Cordless",
+        "price": 400000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9037",
+        "timestamp": "2023-10-27T11:05:00Z",
+        "customer_id": "CUST-1043",
+        "product_category": "Alat Tulis",
+        "item_name": "Buku Catatan Premium",
+        "price": 50000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9038",
+        "timestamp": "2023-10-27T11:10:00Z",
+        "customer_id": "CUST-1014",
+        "product_category": "  elektronik  ",
+        "item_name": "Powerbank 20000mAh",
+        "price": 100000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9039",
+        "timestamp": "2023-10-27T11:15:00Z",
+        "customer_id": "CUST-1049",
+        "product_category": "Home Appliances",
+        "item_name": "Blender Portable Mini",
+        "price": 500000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9040",
+        "timestamp": "2023-10-27T11:20:00Z",
+        "customer_id": "CUST-1023",
+        "product_category": "Home Appliances",
+        "item_name": "Vacuum Cleaner Cordless",
+        "price": 500000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9041",
+        "timestamp": "2023-10-27T11:25:00Z",
+        "customer_id": "CUST-1039",
+        "product_category": "Fashion",
+        "item_name": "Kaos Polos Hitam M",
+        "price": 350000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9042",
+        "timestamp": "2023-10-27T11:30:00Z",
+        "customer_id": "CUST-1016",
+        "product_category": "Elektronik",
+        "item_name": "Smartphone X-Pro 128GB",
+        "price": 400000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9043",
+        "timestamp": "2023-10-27T11:35:00Z",
+        "customer_id": "CUST-1014",
+        "product_category": "Makanan",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 450000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9044",
+        "timestamp": "2023-10-27T11:40:00Z",
+        "customer_id": "CUST-1029",
+        "product_category": "Alat Tulis",
+        "item_name": "Spidol Warna 12pcs",
+        "price": 150000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9045",
+        "timestamp": "2023-10-27T11:45:00Z",
+        "customer_id": "CUST-1017",
+        "product_category": "  makanan  ",
+        "item_name": "Kopi Bubuk Arabica 250g",
+        "price": 100000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9046",
+        "timestamp": "2023-10-27T11:50:00Z",
+        "customer_id": "CUST-1031",
+        "product_category": "MAKANAN",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 250000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9047",
+        "timestamp": "2023-10-27T11:55:00Z",
+        "customer_id": "CUST-1013",
+        "product_category": "Alat Tulis",
+        "item_name": "Kertas HVS A4 80gsm",
+        "price": 400000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9048",
+        "timestamp": "2023-10-27T12:00:00Z",
+        "customer_id": "CUST-1050",
+        "product_category": "Home Appliances",
+        "item_name": "Kipas Angin Berdiri 16-inch",
+        "price": -50000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9049",
+        "timestamp": "2023-10-27T12:05:00Z",
+        "customer_id": "CUST-1017",
+        "product_category": "Fashion",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 450000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9050",
+        "timestamp": "2023-10-27T12:10:00Z",
+        "customer_id": "CUST-1019",
+        "product_category": "Fashion",
+        "item_name": "Jaket Hoodie Navy XL",
+        "price": 50000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9051",
+        "timestamp": "2023-10-27T12:15:00Z",
+        "customer_id": "CUST-1012",
+        "product_category": "Fashion",
+        "item_name": "Kemeja Flanel Pria L",
+        "price": 250000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9052",
+        "timestamp": "2023-10-27T12:20:00Z",
+        "customer_id": "CUST-1036",
+        "product_category": "Fashion",
+        "item_name": "Sepatu Sneakers Putih 42",
+        "price": 100000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9053",
+        "timestamp": "2023-10-27T12:25:00Z",
+        "customer_id": "CUST-1031",
+        "product_category": "",
+        "item_name": "Sepatu Sneakers Putih 42",
+        "price": 150000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9054",
+        "timestamp": "2023-10-27T12:30:00Z",
+        "customer_id": "CUST-1012",
+        "product_category": "  fashion  ",
+        "item_name": "Kaos Polos Hitam M",
+        "price": 150000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9055",
+        "timestamp": "2023-10-27T12:35:00Z",
+        "customer_id": "CUST-1024",
+        "product_category": "Fashion",
+        "item_name": "Sepatu Sneakers Putih 42",
+        "price": 400000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9056",
+        "timestamp": "2023-10-27T12:40:00Z",
+        "customer_id": "CUST-1027",
+        "product_category": "Elektronik",
+        "item_name": "Laptop Pro 15-inch",
+        "price": 350000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9057",
+        "timestamp": "2023-10-27T12:45:00Z",
+        "customer_id": "CUST-1026",
+        "product_category": "",
+        "item_name": "Mie Instan Kuah 5pcs",
+        "price": 450000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9058",
+        "timestamp": "2023-10-27T12:50:00Z",
+        "customer_id": "CUST-1030",
+        "product_category": "Makanan",
+        "item_name": "Kopi Bubuk Arabica 250g",
+        "price": 50000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9059",
+        "timestamp": "2023-10-27T12:55:00Z",
+        "customer_id": "CUST-1026",
+        "product_category": "Makanan",
+        "item_name": "Susu UHT Full Cream 1L",
+        "price": 100000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9060",
+        "timestamp": "2023-10-27T13:00:00Z",
+        "customer_id": "CUST-1022",
+        "product_category": "Home Appliances",
+        "item_name": "Blender Portable Mini",
+        "price": 450000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9061",
+        "timestamp": "2023-10-27T13:05:00Z",
+        "customer_id": "CUST-1017",
+        "product_category": "Home Appliances",
+        "item_name": "Blender Portable Mini",
+        "price": 300000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9062",
+        "timestamp": "2023-10-27T13:10:00Z",
+        "customer_id": "CUST-1045",
+        "product_category": "Makanan",
+        "item_name": "Kopi Bubuk Arabica 250g",
+        "price": 350000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9063",
+        "timestamp": "2023-10-27T13:15:00Z",
+        "customer_id": "CUST-1049",
+        "product_category": "Fashion",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 350000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9064",
+        "timestamp": "2023-10-27T13:20:00Z",
+        "customer_id": "CUST-1047",
+        "product_category": "HOME APPLIANCES",
+        "item_name": "Vacuum Cleaner Cordless",
+        "price": 50000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9065",
+        "timestamp": "2023-10-27T13:25:00Z",
+        "customer_id": "CUST-1020",
+        "product_category": "Home Appliances",
+        "item_name": "Setrika Uap Anti Lengket",
+        "price": 400000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9066",
+        "timestamp": "2023-10-27T13:30:00Z",
+        "customer_id": "CUST-1025",
+        "product_category": "Alat Tulis",
+        "item_name": "Kertas HVS A4 80gsm",
+        "price": 500000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9067",
+        "timestamp": "2023-10-27T13:35:00Z",
+        "customer_id": "CUST-1040",
+        "product_category": "FASHION",
+        "item_name": "Sepatu Sneakers Putih 42",
+        "price": -150000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9068",
+        "timestamp": "2023-10-27T13:40:00Z",
+        "customer_id": "CUST-1041",
+        "product_category": "Home Appliances",
+        "item_name": "Setrika Uap Anti Lengket",
+        "price": 500000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9069",
+        "timestamp": "2023-10-27T13:45:00Z",
+        "customer_id": "CUST-1016",
+        "product_category": "Fashion",
+        "item_name": "Sepatu Sneakers Putih 42",
+        "price": 50000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9070",
+        "timestamp": "2023-10-27T13:50:00Z",
+        "customer_id": "CUST-1017",
+        "product_category": "Fashion",
+        "item_name": "Sepatu Sneakers Putih 42",
+        "price": 450000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9071",
+        "timestamp": "2023-10-27T13:55:00Z",
+        "customer_id": "CUST-1038",
+        "product_category": "Fashion",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 450000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9072",
+        "timestamp": "2023-10-27T14:00:00Z",
+        "customer_id": "CUST-1026",
+        "product_category": "Makanan",
+        "item_name": "Mie Instan Kuah 5pcs",
+        "price": 150000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9073",
+        "timestamp": "2023-10-27T14:05:00Z",
+        "customer_id": "CUST-1014",
+        "product_category": "Alat Tulis",
+        "item_name": "Kertas HVS A4 80gsm",
+        "price": 400000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9074",
+        "timestamp": "2023-10-27T14:10:00Z",
+        "customer_id": "CUST-1018",
+        "product_category": "Fashion",
+        "item_name": "Kaos Polos Hitam M",
+        "price": 300000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9075",
+        "timestamp": "2023-10-27T14:15:00Z",
+        "customer_id": "CUST-1036",
+        "product_category": "  fashion  ",
+        "item_name": "Celana Jeans Slim Fit 32",
+        "price": 150000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9076",
+        "timestamp": "2023-10-27T14:20:00Z",
+        "customer_id": "CUST-1034",
+        "product_category": "Makanan",
+        "item_name": "Mie Instan Kuah 5pcs",
+        "price": null,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9077",
+        "timestamp": "2023-10-27T14:25:00Z",
+        "customer_id": "CUST-1034",
+        "product_category": "Makanan",
+        "item_name": "Mie Instan Kuah 5pcs",
+        "price": -400000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9078",
+        "timestamp": "2023-10-27T14:30:00Z",
+        "customer_id": "CUST-1027",
+        "product_category": "Makanan",
+        "item_name": "Susu UHT Full Cream 1L",
+        "price": 500000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9079",
+        "timestamp": "2023-10-27T14:35:00Z",
+        "customer_id": "CUST-1035",
+        "product_category": "Home Appliances",
+        "item_name": "Blender Portable Mini",
+        "price": 350000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9080",
+        "timestamp": "2023-10-27T14:40:00Z",
+        "customer_id": "CUST-1047",
+        "product_category": "Home Appliances",
+        "item_name": "Rice Cooker Digital 1.8L",
+        "price": 500000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9081",
+        "timestamp": "2023-10-27T14:45:00Z",
+        "customer_id": "CUST-1026",
+        "product_category": "ELEKTRONIK",
+        "item_name": "Smartwatch Series 5",
+        "price": 150000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9082",
+        "timestamp": "2023-10-27T14:50:00Z",
+        "customer_id": "CUST-1034",
+        "product_category": "Alat Tulis",
+        "item_name": "Pulpen Gel Set of 5",
+        "price": 400000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9083",
+        "timestamp": "2023-10-27T14:55:00Z",
+        "customer_id": "CUST-1013",
+        "product_category": "Home Appliances",
+        "item_name": "Kipas Angin Berdiri 16-inch",
+        "price": 100000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9084",
+        "timestamp": "2023-10-27T15:00:00Z",
+        "customer_id": "CUST-1022",
+        "product_category": "Fashion",
+        "item_name": "Kemeja Flanel Pria L",
+        "price": 50000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9085",
+        "timestamp": "2023-10-27T15:05:00Z",
+        "customer_id": "CUST-1046",
+        "product_category": "Makanan",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 200000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9086",
+        "timestamp": "2023-10-27T15:10:00Z",
+        "customer_id": "CUST-1017",
+        "product_category": "Home Appliances",
+        "item_name": "Kipas Angin Berdiri 16-inch",
+        "price": 300000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9087",
+        "timestamp": "2023-10-27T15:15:00Z",
+        "customer_id": "CUST-1034",
+        "product_category": "Alat Tulis",
+        "item_name": "Buku Catatan Premium",
+        "price": -500000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9088",
+        "timestamp": "2023-10-27T15:20:00Z",
+        "customer_id": "CUST-1016",
+        "product_category": "Fashion",
+        "item_name": "Kemeja Flanel Pria L",
+        "price": 500000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9089",
+        "timestamp": "2023-10-27T15:25:00Z",
+        "customer_id": "CUST-1037",
+        "product_category": "Makanan",
+        "item_name": "Snack Kentang Sapi Panggang",
+        "price": 500000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9090",
+        "timestamp": "2023-10-27T15:30:00Z",
+        "customer_id": "CUST-1041",
+        "product_category": "Elektronik",
+        "item_name": "Powerbank 20000mAh",
+        "price": -300000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9091",
+        "timestamp": "2023-10-27T15:35:00Z",
+        "customer_id": "CUST-1043",
+        "product_category": "Home Appliances",
+        "item_name": "Kipas Angin Berdiri 16-inch",
+        "price": 400000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9092",
+        "timestamp": "2023-10-27T15:40:00Z",
+        "customer_id": "CUST-1047",
+        "product_category": "Makanan",
+        "item_name": "Susu UHT Full Cream 1L",
+        "price": 400000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9093",
+        "timestamp": "2023-10-27T15:45:00Z",
+        "customer_id": "CUST-1039",
+        "product_category": "Alat Tulis",
+        "item_name": "Pulpen Gel Set of 5",
+        "price": 100000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9094",
+        "timestamp": "2023-10-27T15:50:00Z",
+        "customer_id": "CUST-1023",
+        "product_category": "ALAT TULIS",
+        "item_name": "Buku Catatan Premium",
+        "price": 400000,
+        "payment_method": "Bank Transfer"
+    },
+    {
+        "transaction_id": "TRX-202310-9095",
+        "timestamp": "2023-10-27T15:55:00Z",
+        "customer_id": "CUST-1027",
+        "product_category": "Alat Tulis",
+        "item_name": "Spidol Warna 12pcs",
+        "price": 250000,
+        "payment_method": "Credit Card"
+    },
+    {
+        "transaction_id": "TRX-202310-9096",
+        "timestamp": "2023-10-27T16:00:00Z",
+        "customer_id": "CUST-1045",
+        "product_category": "Makanan",
+        "item_name": "Cokelat Batang Almond 100g",
+        "price": 100000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9097",
+        "timestamp": "2023-10-27T16:05:00Z",
+        "customer_id": "CUST-1024",
+        "product_category": "  home appliances  ",
+        "item_name": "Setrika Uap Anti Lengket",
+        "price": 400000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9098",
+        "timestamp": "2023-10-27T16:10:00Z",
+        "customer_id": "CUST-1032",
+        "product_category": "Fashion",
+        "item_name": "Kaos Polos Hitam M",
+        "price": 500000,
+        "payment_method": "Cash on Delivery"
+    },
+    {
+        "transaction_id": "TRX-202310-9099",
+        "timestamp": "2023-10-27T16:15:00Z",
+        "customer_id": "CUST-1026",
+        "product_category": "Makanan",
+        "item_name": "Kopi Bubuk Arabica 250g",
+        "price": 300000,
+        "payment_method": "E-Wallet"
+    },
+    {
+        "transaction_id": "TRX-202310-9100",
+        "timestamp": "2023-10-27T16:20:00Z",
+        "customer_id": "CUST-1021",
+        "product_category": "Elektronik",
+        "item_name": "Laptop Pro 15-inch",
+        "price": 300000,
+        "payment_method": "E-Wallet"
+    }
+]
